@@ -1,0 +1,62 @@
+#listademenu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    gap: 5px;
+
+}
+
+
+
+
+
+
+
+#pedido {
+    display: flex;
+    justify-content: flex-end;
+    width: 827;
+    height: 80; 
+}
+
+
+
+
+#logodaloja {
+    display: flex;
+    margin-right: auto;
+}
+
+
+
+
+#botaopedido {
+    background-color: #F7F0E8;
+    width: 50px;
+    height: 45px;
+    border-radius: 20%;
+    cursor: pointer;
+    
+}
+
+body {
+    background-color: #F5EBDD;
+}
+
+
+#cardapio {
+    width: 50;
+    height: 25px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #EAEAEA;
+}
+
+#phone {
+    width: 50;
+    height: 25px;
+    padding: 10px 20px;
+    background-color: #EAEAEA;
+
+}
