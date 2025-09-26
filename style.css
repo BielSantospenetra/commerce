@@ -60,3 +60,106 @@ body {
     background-color: #EAEAEA;
 
 }
+
+.linhadebolos {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.card-bolo {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+  height: 390px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: white;
+}
+
+.info-bolo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-bolo img {
+  width: 100%;
+  height: 200px;
+}
+
+.nome-bolo {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.acoes-bolo {
+  margin-top: 10px;
+}
+
+.preco-bolo {
+  margin-bottom: 8px;
+}
+
+.btn-pedido {
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+.avaliacoes {
+  padding: 20px;
+}
+
+.avaliacoes h2 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.comentario {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+.btn-avaliar {
+  background-color: #ffa07a;
+}
+
+.btn-pedido:hover {
+  background-color: #e67348;
+}
+
+.btn-avaliar:hover {
+  background-color: #e88b6a;
+}
+*/
+
+
